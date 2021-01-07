@@ -1,0 +1,73 @@
+Funzioni2D/Cos2D.java
+ Funzioni2D.Cos2D
+Funzioni2D/Parabola2D.java
+ Funzioni2D.Parabola2D
+Intro2.java
+ Intro2
+Funzioni2D/NaturalSampler2D.java
+ Funzioni2D.NaturalSampler2D
+myGL/Vertex.java
+ myGL.Vertex
+introToModernOpenGL/HelloWorldCh3GL.java
+ introToModernOpenGL.HelloWorldCh3GL
+ introToModernOpenGL.HelloWorldCh3GL$GResources
+Funzioni2D/BezierK22D.java
+ Funzioni2D.BezierK22D
+introToModernOpenGL/HelloWorldGL.java
+ introToModernOpenGL.HelloWorldGL
+ introToModernOpenGL.HelloWorldGL$GResources
+Intro5.java
+ Intro5
+ Intro5$1
+Funzioni2D/Sampler2D.java
+ Funzioni2D.Sampler2D
+HelloWorldGL.java
+ HelloWorldGL
+introToModernOpenGL/Utils.java
+ introToModernOpenGL.Utils
+Funzioni2D/Circumference2D.java
+ Funzioni2D.Circumference2D
+Funzioni2D/Sin2D.java
+ Funzioni2D.Sin2D
+openGLTutorial/VertexPeano.java
+ openGLTutorial.VertexPeano
+IntroToModernOpenGL.java
+ IntroToModernOpenGL
+myGL/Main.java
+ myGL.Main
+myGL/GResources.java
+ myGL.GResources
+myGL/Utils.java
+ myGL.Utils
+myGL/Coord2D.java
+ myGL.Coord2D
+Funzioni2D/Bezier2D.java
+ Funzioni2D.Bezier2D
+Funzioni3D/Superficie3D.java
+ Funzioni3D.Superficie3D
+Intro3.java
+ Intro3
+Funzioni2D/Funzione2D.java
+ Funzioni2D.Funzione2D
+myGL/Square.java
+ myGL.Square
+openGLTutorial/MyFirstClass.java
+ openGLTutorial.MyFirstClass
+myGL/FloatMatrix.java
+ myGL.FloatMatrix
+openGLTutorial/GeometryShaders.java
+ openGLTutorial.GeometryShaders
+Funzioni3D/Curva3D.java
+ Funzioni3D.Curva3D
+myGL/Camera.java
+ myGL.Camera
+openGLTutorial/Peano2D.java
+ openGLTutorial.Peano2D
+Funzioni2D/Draw2D.java
+ Funzioni2D.Draw2D
+myGL/GLApp.java
+ myGL.GLApp
+Funzioni3D/Circumference3D.java
+ Funzioni3D.Circumference3D
+Funzioni3D/Draw3D.java
+ Funzioni3D.Draw3D
